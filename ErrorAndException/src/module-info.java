@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ymoundek
+ *
+ */
+module ErrorAndException {
+}
